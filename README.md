@@ -1,6 +1,8 @@
 Fingerprinting Tactics with Pyppeteer and Playwright Code Samples
 ==
 
+[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+
 These are the base code samples used during the "Fingerprinting Tactics with Pyppeteer and Playwright Code Samples" webinar by Oxylabs.
 
 Tested with python3.10
